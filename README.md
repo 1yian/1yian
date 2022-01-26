@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Yian.</h2>
+<h2> Hi! I'm Yian.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -36,6 +36,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/1yian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yian%20Wong-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/1yian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-1yian__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/1yian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-1yian-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yian@utexas.edu"><img alt="Email" src="https://img.shields.io/badge/Email-yian@utexas.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
